@@ -1,1 +1,1 @@
-https://shrouded-lake-11236.herokuapp.com/api/persons
+https://shrouded-lake-11236.herokuapp.com/
